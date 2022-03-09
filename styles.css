@@ -19,10 +19,10 @@ body {
 }
 
 .big-heading {
-  font-family: "Arial-Black";
-  font-size: 3.5rem;
+  font-family: "Montserrat";
+  font-size: 2.5rem;
   /* line-height: 1.5rem; */
-  text-align: center;
+  /* text-align: center; */
 }
 
 .section-heading {
@@ -65,10 +65,13 @@ body {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Montserrat";
 }
 
 /* Downloadbutton */
+.fab {
+  padding-right: 5px;
+}
 
 .download-button {
   margin: 10% 3% 5% 0;
